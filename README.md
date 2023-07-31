@@ -1,7 +1,7 @@
 # hamal_agv_kitty
 
-led için alternatifler araştırılıyor. excel dosyası halinde sunulacak.
+https://forums.raspberrypi.com/viewtopic.php?t=86609
 
-birkaç şirketten teklif istendi, dönüş bekleniyor.
+https://www.raspberrypi.com/documentation/computers/configuration.html#changing-the-audio-output
 
-kerem ile yapılacak setup için led satın alım aşamasında.
+https://github.com/rpi-ws281x/rpi-ws281x-python/blob/master/examples/strandtest.py
